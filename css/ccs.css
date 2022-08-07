@@ -1,0 +1,26 @@
+h1 {
+    color: darkblue;
+    background-color: rgb(188, 174, 201);
+}
+
+h2 {
+    color: darkred;
+    background-color: rgb(100, 94, 57);
+}
+
+h3 {
+    color: antiquewhite;
+    background-color: rgb(92, 5, 48);
+}
+
+p {
+    color: navy;
+    border: 2px solid rgb(92, 5, 48);
+}
+
+img{
+    margin-left:   400px;
+}
+body{font-size: x-large;
+    background-color: #5C415D;
+}
